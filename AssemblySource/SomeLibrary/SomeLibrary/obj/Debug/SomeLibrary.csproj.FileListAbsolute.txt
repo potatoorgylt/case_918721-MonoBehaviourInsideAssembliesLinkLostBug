@@ -1,0 +1,6 @@
+C:\Work\Dofus3\Bug Reports\MonoBehaviourInsideAssembliesLinkLostBug\AssemblySource\SomeLibrary\SomeLibrary\bin\Debug\SomeLibrary.dll
+C:\Work\Dofus3\Bug Reports\MonoBehaviourInsideAssembliesLinkLostBug\AssemblySource\SomeLibrary\SomeLibrary\bin\Debug\SomeLibrary.pdb
+C:\Work\Dofus3\Bug Reports\MonoBehaviourInsideAssembliesLinkLostBug\AssemblySource\SomeLibrary\SomeLibrary\bin\Debug\UnityEngine.dll
+C:\Work\Dofus3\Bug Reports\MonoBehaviourInsideAssembliesLinkLostBug\AssemblySource\SomeLibrary\SomeLibrary\bin\Debug\UnityEngine.xml
+C:\Work\Dofus3\Bug Reports\MonoBehaviourInsideAssembliesLinkLostBug\AssemblySource\SomeLibrary\SomeLibrary\obj\Debug\SomeLibrary.dll
+C:\Work\Dofus3\Bug Reports\MonoBehaviourInsideAssembliesLinkLostBug\AssemblySource\SomeLibrary\SomeLibrary\obj\Debug\SomeLibrary.pdb
